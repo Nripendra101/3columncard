@@ -1,0 +1,36 @@
+.main{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:center;
+    height:600px;
+    width:100%;
+    background-color:aqua
+}
+.box{
+    height:200px;
+    width:150px;
+    
+    border: 1px solid black;
+    Font-size: 15px;
+
+}
+
+.one{
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 4%;
+    padding:20px;
+    
+}
+.two{
+    background-color: hsl(184, 100%, 22%);
+    padding:20px;
+    border-radius: 4%;
+
+}
+.three{
+    background-color: hsl(179, 100%, 13%);
+    padding:20px;
+    border-radius: 4%;
+
+}
